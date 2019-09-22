@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">アクティビティのライフサイクル</string>
+    <string name="next_Button">SubActivityを表示する</string>
+    <string name="back_Button">MainActivityへ戻る</string>
+</resources>
